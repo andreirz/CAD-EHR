@@ -8,5 +8,7 @@ EHR_SETTINGS – Võimaldab kasutajal määrata kaare/polügooni segmentide nö�
 EHR_TEST – Visuaalne abi koordinaatide kontrollimiseks, mis kirjutatakse faili. Loob kihi "TEST_COORDS".<br>
 EHR_HELP – Kuvab käskude kirjelduse.
 
+Kui tekib probleeme pindade koordinaatide üles laadimisel Ehitisregistrisse, siis enne pindade koordinaatide võtmist tasub teha kõikidest pindadest "HATCHGENERATEBOUNDARY" ja koordinaadid võtta juba genereeritud boundary'test, sel juhul saab pinnad EHRi veateadeteta üles laadida ja EHR saab aru, et tegemist on suletud pinnavormidega.
+
 Projekti toetab Euroopa Liit - NextGenerationEU vahenditest.
 ![image](https://github.com/user-attachments/assets/14beff5a-0073-49db-9db3-ae3dede6acb1)
