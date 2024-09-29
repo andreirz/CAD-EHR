@@ -1,4 +1,4 @@
-<h1><span style="font-weight: 400;">EHR Autocad plugin dokumentatsioon</span></h1>
+<h1><span style="font-weight: 400;">EHR Autocad plugina dokumentatsioon</span></h1>
 <p>&nbsp;</p>
 <h3><strong>1. RtD, DtR: Radiaanide ja kraadide vahel teisendamine</strong></h3>
 <ul>
